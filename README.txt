@@ -1,10 +1,9 @@
- --- PRESENTACIÓN DE UN PROYECTO UTILIZANDO REACT --
+ --- PRESENTACIÃ“N DE UN PROYECTO UTILIZANDO REACT --
 
-A continuación encontrarán un gestor de archivos multimedia en javascript
-implementando REACT y con la conofiguración en Node.js, 
-el poyecto aún se encunetra en desarrollo, por tal motivo, es necesario 
-correr en el command prompt, hubicados en la dirección del proyecto, la línea 
-"npm run build:dev"
+A continuaciÃ³n encontrarÃ¡n un gestor de archivos multimedia en javascript
+implementando REACT y con la conofiguraciÃ³n en Node.js, 
+el poyecto aÃºn se encunetra modo producciÃ³n, por tal motivo, ya se puede
+descargar y correr directamente el archivo index.html.
 
 Gracias.
 
